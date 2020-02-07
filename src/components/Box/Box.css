@@ -1,0 +1,30 @@
+.quote-box {
+  border-radius: 3px;
+  position: relative;
+  width: 450px;
+  padding: 40px 50px;
+  display: table;
+  background-color: #fff;
+/*	background-color: white;
+	display: table;   
+  	align-items: center;
+ 	justify-content: center;
+	width: 600px;
+	height: 280px;
+	padding: 50px;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);*/
+}
+
+body {
+	background-color: #00b386;
+	  color: #333;
+	  font-family: 'Raleway', sans-serif;
+	  font-weight: 400;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	  height: 100vh;
+}
